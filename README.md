@@ -1,0 +1,2 @@
+# fiec-selecao-ciencias-de-dados
+[PROVA PRÁTICA] SELEÇÃO 54/2021 - CIENTISTA DEDADOS - FOCO EM ENGENHARIA DE DADOS

@@ -13,3 +13,16 @@ inicie um ambiente virtual python e instale as dependencias.
 root$ virtualenv .env
 root$ pip install -r requirements.txt
 ```
+
+### Aplicação da questão 2
+
+Para iniciar a aplicação basta executar o arquivo
+[main.py](scripts/antaq-etl/main.py), os arquivos serão baixados e transformados
+automaticamente.
+
+```bash
+root$ python scripts/antaq-etl/main.py
+```
+
+> _Nota_: A pasta [data](data/) está na raiz do projeto, então executar comandos
+> fora da raiz podem ocasionar em erros de localização de arquivos.

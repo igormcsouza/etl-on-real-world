@@ -26,3 +26,7 @@ root$ python scripts/antaq-etl/main.py
 
 > _Nota_: A pasta [data](data/) está na raiz do projeto, então executar comandos
 > fora da raiz podem ocasionar em erros de localização de arquivos.
+
+## Utilizar Apache Airflow
+
+Airflow está configurado para ser usado via Docker.

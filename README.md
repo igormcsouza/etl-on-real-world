@@ -10,7 +10,7 @@ As dependencias estão descritas no arquivo [requirements.txt](requirements.txt)
 inicie um ambiente virtual python e instale as dependencias.
 
 ```bash
-root$ virtualenv .env
+root$ virtualenv .venv
 root$ pip install -r requirements.txt
 ```
 

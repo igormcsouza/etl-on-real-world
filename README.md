@@ -14,7 +14,7 @@ root$ virtualenv .venv
 root$ pip install -r requirements.txt
 ```
 
-### Antaq problem
+### Antaq Dara Transformations
 
 Start the application by running this python script (bash command bellow)
 [main.py](scripts/antaq-etl/main.py), data will be downloaded automatically.
